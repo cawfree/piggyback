@@ -1,0 +1,4 @@
+.env*
+*.log
+__RESUME__*
+.backup
